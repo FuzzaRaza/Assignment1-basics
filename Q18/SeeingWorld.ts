@@ -1,4 +1,4 @@
-var places:string[]=new Array('Eifel tower','Niagra Waterfall','Deep sea','Center of Earth','Cave-Hira');
+let places:string[]=new Array('Eifel tower','Niagra Waterfall','Deep sea','Center of Earth','Cave-Hira');
 var p:string[]=new Array('Eifel tower','Niagra Waterfall','Deep sea','Center of Earth','Cave-Hira');
  var s:string[]=new Array('Eifel tower','Niagra Waterfall','Deep sea','Center of Earth','Cave-Hira');
 function OrgPlace(places){
